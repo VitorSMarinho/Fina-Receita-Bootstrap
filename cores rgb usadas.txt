@@ -1,0 +1,12 @@
+amarelo           -   #FFF700
+branco            -   #FFFFFF
+cinza claro       -   #F0F0F0
+cinza escuro      -   #707070
+verde claro       -   #E3FFE5
+verde médio       -   #4EB556
+verde escuro      -   #236828
+vermelho claro    -   #FFE3E3
+vermelho médio    -   #DB0138
+vermelho escuro   -   #C60C34
+
+
