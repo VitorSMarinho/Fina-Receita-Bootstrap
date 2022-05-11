@@ -1,0 +1,24 @@
+input[type="file"]{
+    display: none;
+}
+
+
+#enviarimagem{
+    border: 2px solid #236828;
+    padding: 0 1rem 0;
+    width:20%;
+    border-radius: 5px;
+    cursor:pointer;
+    text-align: center;
+}
+
+.textdesc{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.textdesc textarea{
+    width: 55%;
+    resize: none;
+}
