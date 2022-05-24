@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homepage</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body style="background-color: #f0f0f0">
+    <!--Menu-->
+
+    <nav
+      class="navbar navbar-expand-lg navbar-dark"
+      style="background-color: #db0138"
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand ms-2" href="#"
+          ><img src="./img/FinaReceita.png" alt="logo" style="height: 3rem"
+        /></a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!--Search Engine-->
+
+        <div
+          class="collapse navbar-collapse ms-4 me-2"
+          id="navbarSupportedContent"
+        >
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#"
+                >Envie sua receita
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#receitas"
+                >Receitas
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#experimente"
+                >Experimente também
+              </a>
+            </li>
+          </ul>
+          <form class="d-flex">
+            <input
+              class="form-control me-2"
+              type="search"
+              placeholder="Digite sua busca!"
+              aria-label="Search"
+            />
+            <button class="btn btn-outline-light" type="submit">Buscar</button>
+          </form>
+        </div>
+
+        <!--/Search Engine-->
+      </div>
+    </nav>
+
+    <!--Categories Menu-->
+
+    <div
+      class="d-flex flex-wrap d-flex justify-content-evenly"
+      style="background-color: #c60c34"
+    >
+      <!--Dropdown 1-->
+
+      <div class="dropdown">
+        <a
+          class="btn btn-danger dropdown-toggle"
+          style="background-color: #c60c34; border-style: none"
+          href="#"
+          role="button"
+          id="dropdownMenuLink"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          Doces
+        </a>
+
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+          <li><a class="dropdown-item" href="#">Brigadeiro</a></li>
+          <li><a class="dropdown-item" href="#">Pudim</a></li>
+          <li><a class="dropdown-item" href="#">Sonho</a></li>
+        </ul>
+      </div>
+
+      <!--/Dropdown 1-->
+
+      <!--Dropdown 2-->
+
+      <div class="dropdown">
+        <a
+          class="btn btn-danger dropdown-toggle"
+          style="background-color: #c60c34; border-style: none"
+          href="#"
+          role="button"
+          id="dropdownMenuLink"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          Salgados
+        </a>
+
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+          <li><a class="dropdown-item" href="#">Macarrão a Bolonhesa</a></li>
+          <li><a class="dropdown-item" href="#">Espeto com Legumes</a></li>
+          <li><a class="dropdown-item" href="#">Pizza de Mussarela</a></li>
+        </ul>
+      </div>
+
+      <!--/Dropdown 2-->
+
+      <!--Dropdown 3-->
+
+      <div class="dropdown">
+        <a
+          class="btn btn-danger dropdown-toggle"
+          style="background-color: #c60c34; border-style: none"
+          href="#"
+          role="button"
+          id="dropdownMenuLink"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          Alimentação Saudável
+        </a>
+
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+          <li><a class="dropdown-item" href="#">Omelete Fit</a></li>
+          <li><a class="dropdown-item" href="#">Salmão Grelhado</a></li>
+          <li><a class="dropdown-item" href="#">Tabule</a></li>
+        </ul>
+      </div>
+
+      <!--/Dropdown 3-->
+    </div>
+
+    <!--/Categories Menu-->
+
+    <!--/Menu-->
+
+    <!--SlideShow BootStrap-->
+  <div class="card mx-auto w-100" style="background-color: #f0f0f0; border-style: none">
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+
+      <div class="carousel-inner">
+
+        <div class="carousel-item active">
+          <img src="img/hot-dog.jpg" class="d-block w-100" alt="...">
+        </div>
+
+        <div class="carousel-item">
+          <img src="img/lasanha.png" class="d-block w-100 img-fluid" alt="...">
+        </div>
+
+        <div class="carousel-item">
+          <img src="img/taco.jpg" class="d-block w-100 img-fluid " alt="...">
+        </div>
+
+      </div>
+
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+
+    </div>
+  </div>
+    <!--SlideShow BootStrap-->
+
+    <!-- Titulo da Seção -->
+  <div id='receitas'class="w-100 fs-3" style="background-color: #c60c34;height: 60px;display: flex;align-items: center;justify-content: center;">
+    <p style="margin-top: 15px;color:#f0f0f0">Receitas</p>
+  </div>
+    <!-- Fim Titulo da Seção -->
+
+    <!--Conteúdo-->
+  <section class="container" style="margin-bottom: 50px;margin-top: 50px;">
+    <div class="card mb-3">
+      <div class="row g-3">
+        <div class="col-12 col-md-6 col-lg-4">
+          <img src="img/hot-dog.jpg" class="img-fluid rounded-start">
+        </div>
+        <div class="col-12 col-md-6 col-lg-6">
+          <div class="card-body">
+            <h5 class="card-title">Hot Dog norte-americano.</h5>
+            <p class="card-text">
+              O preparo típico do cachorro-quente 
+              é colocando a salsicha com o molho agridoce, picles à base
+              de pepino, mostarda e ketchup.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card mb-3">
+      <div class="row g-3">
+        <div class="col-12 col-md-6 col-lg-4">
+          <img src="img/lasanha.png" class="img-fluid rounded-start" alt="...">
+        </div>
+        <div class="col-12 col-md-6 col-lg-6">
+          <div class="card-body">
+            <h5 class="card-title">Lasanha à bolonhesa.</h5>
+            <p class="card-text">
+              A Lasanha à Bolonhesa é composta por uma deliciosa massa,
+              recheada com molho à bolonhesa, carne moída e presunto,
+              coberta com molho branco e mussarela.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row g-3">
+        <div class="col-12 col-md-6 col-lg-4">
+          <img src="img/taco.jpg" class="img-fluid rounded-start" alt="...">
+        </div>
+        <div class="col-12 col-md-6 col-lg-6">
+          <div class="card-body">
+            <h5 class="card-title">Taco mexicano.</h5>
+            <p class="card-text">
+              A tortilha de milho é aberta e crocante, e sobre ela vão frijoles
+              refritos, queijo, carne ou frango, alface,
+              tomate, guacamole e sour cream.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    <!-- Fim Conteúdo-->
+
+    <!-- Titulo da Seção -->
+  <div id='experimente' class="w-100 fs-3" style="background-color: #c60c34;height: 60px;display: flex;align-items: center;justify-content: center;margin-top: 40px;">
+    <p style="margin-top: 15px;color:#f0f0f0">Experimente também</p>
+  </div>
+    <!-- Fim Titulo da Seção -->
+
+    <!-- Conteudo experimente também -->
+    <section class="container" style="margin-bottom: 50px;margin-top: 50px;">
+      <div class="row g-3">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card">
+            <img src="img/espeto.jpg" alt="Um espeto de carne com legumes" class="card-img-top">
+            <div class="card-body">
+              <h5 class="card-title">Espeto com legumes</h5>
+              <p class="card-text">
+                O espetinho de carne com legumes é uma ótima pedida. 
+                Seja servido como um vegetal lateral ou como prato principal.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card">
+            <img src="img/feijoada.jpg" alt="Uma panela de feijoada" class="card-img-top">
+            <div class="card-body">
+              <h5 class="card-title">Feijoada rápida</h5>
+              <p class="card-text">
+                A feijoada é um prato que consiste num guisado de
+                 feijões-pretos com vários tipos de carne de porco e de boi.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card">
+            <img src="img/pizza-mussarela.jpg" alt="Um espeto de carne com legumes" class="card-img-top">
+            <div class="card-body">
+              <h5 class="card-title">Pizza de mussarela</h5>
+              <p class="card-text">
+                A pizza de Mussarela é coberta com molho de tomate, 
+                queijo tipo mussarela, azeitona pretas, 
+                orégano e massa com fermetalão natural.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Conteudo experimente também -->
+
+    <!-- Footer -->
+    <footer
+      class="text-center text-lg-start text-muted p-1"
+      style="background-color: #db0138"
+    >
+      <!-- Section: Social media -->
+
+      <!-- Section: Links  -->
+      <section class="">
+        <div class="container text-center text-md-start mt-5">
+          <!-- Grid row -->
+          <div class="row mt-3">
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase text-light fw-bold mb-4">Categorias</h6>
+              <p>
+                <a href="#!" class="text-decoration-none text-light"
+                  >Salgados</a
+                >
+              </p>
+              <p>
+                <a href="#!" class="text-decoration-none text-light">Doces</a>
+              </p>
+              <p>
+                <a href="#!" class="text-decoration-none text-light"
+                  >Alimentação Saudável</a
+                >
+              </p>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase text-light fw-bold mb-4">
+                Sobre o Fina Receita
+              </h6>
+              <p>
+                <a href="#!" class="text-decoration-none text-light"
+                  >Quem somos</a
+                >
+              </p>
+              <p>
+                <a href="#!" class="text-decoration-none text-light">Contato</a>
+              </p>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+              <div>
+                <img
+                  src="./img/FinaReceita.png"
+                  alt="logo"
+                  style="height: 60px"
+                />
+              </div>
+              <div>
+                <img
+                  src="./img/instagram-logo.png"
+                  alt="instragam"
+                  style="height: 40px"
+                />
+                <img
+                  src="./img/facebook.png"
+                  alt="facebook"
+                  style="height: 40px"
+                />
+              </div>
+            </div>
+            <!-- Grid column -->
+          </div>
+          <!-- Grid row -->
+        </div>
+      </section>
+      <!-- Section: Links  -->
+    </footer>
+    <!-- Footer -->
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+  </body>
+</html>
