@@ -1,25 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Quem somos</title>
+    <title>Homepage</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="css/style.css">
   </head>
   <body style="background-color: #f0f0f0">
     <!--Menu-->
 
     <nav
-      class="navbar navbar-expand-lg navbar-dark"
-      style="background-color: #db0138"
+      class="navbar navbar-expand-lg navbar-dark" style="background-color: #db0138"
     >
-      <div class="container-fluid">
+      <div class="container-fluid" >
         <a class="navbar-brand ms-2" href="#"
           ><img src="./img/FinaReceita.png" alt="logo" style="height: 3rem"
         /></a>
@@ -41,11 +41,21 @@
           class="collapse navbar-collapse ms-4 me-2"
           id="navbarSupportedContent"
         >
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#"
-                >Envie sua receita
-              </a>
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex align-items-center">
+            <li class="nav-item ms-3 mt-3">
+            <div class="log">
+                <p class="d-flex align-items-center"><a href="login.php"><img src="./img/enter.png" alt="login" style="height: 2em;"/></a>
+                <a class="nav-link active" aria-current="page" href="login.php"
+                  >Login
+                </a></p>
+            </li>
+            <li class="nav-item ms-5 mt-3">
+              <div class="log">
+                <p class="d-flex align-items-center"><a href="cadastro.php"><img src="./img/edit.png" alt="cadastrar-se" style="height: 2em;"/></a>
+                <a class="nav-link active" aria-current="page" href="cadastro.php"
+                  >Cadastrar-se
+                </a></p>
+              </div>
             </li>
           </ul>
           <form class="d-flex">
@@ -145,111 +155,3 @@
     <!--/Categories Menu-->
 
     <!--/Menu-->
-
-    <!--Conteúdo-->
-
-    <div class="card p-3 m-4 mx-auto" style="width: 75%">
-      <div class="text-center d-flex justify-content-center">
-        <img src="img/chef.png" style="height: 2rem" />
-        <p style="color: #236828">Quem somos</p>
-      </div>
-      <div class="card-body">
-        <p class="lh-lg" style="color: #236828">
-          Estudantes do curso em Tecnologia em Sistemas para Internet.<br />
-          Eduardo Augusto Gomes de Oliveira Prado<br />
-          Igor Micali<br />
-          Vitor dos Santos Marinho<br />
-          William Fernandes Pereira
-        </p>
-      </div>
-    </div>
-
-    <!--Conteúdo-->
-
-    <!-- Footer -->
-    <footer
-      class="text-center text-lg-start text-muted p-1"
-      style="background-color: #db0138"
-    >
-      <!-- Section: Social media -->
-
-      <!-- Section: Links  -->
-      <section class="">
-        <div class="container text-center text-md-start mt-5">
-          <!-- Grid row -->
-          <div class="row mt-3">
-            <!-- Grid column -->
-            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-              <!-- Links -->
-              <h6 class="text-uppercase text-light fw-bold mb-4">Categorias</h6>
-              <p>
-                <a href="#!" class="text-decoration-none text-light"
-                  >Salgados</a
-                >
-              </p>
-              <p>
-                <a href="#!" class="text-decoration-none text-light">Doces</a>
-              </p>
-              <p>
-                <a href="#!" class="text-decoration-none text-light"
-                  >Alimentação Saudável</a
-                >
-              </p>
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-              <!-- Links -->
-              <h6 class="text-uppercase text-light fw-bold mb-4">
-                Sobre o Fina Receita
-              </h6>
-              <p>
-                <a href="#!" class="text-decoration-none text-light"
-                  >Quem somos</a
-                >
-              </p>
-              <p>
-                <a href="#!" class="text-decoration-none text-light">Contato</a>
-              </p>
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-              <div>
-                <img
-                  src="./img/FinaReceita.png"
-                  alt="logo"
-                  style="height: 60px"
-                />
-              </div>
-              <div>
-                <img
-                  src="./img/instagram-logo.png"
-                  alt="instragam"
-                  style="height: 40px"
-                />
-                <img
-                  src="./img/facebook.png"
-                  alt="facebook"
-                  style="height: 40px"
-                />
-              </div>
-            </div>
-            <!-- Grid column -->
-          </div>
-          <!-- Grid row -->
-        </div>
-      </section>
-      <!-- Section: Links  -->
-    </footer>
-    <!-- Footer -->
-
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-      crossorigin="anonymous"
-    ></script>
-  </body>
-</html>
