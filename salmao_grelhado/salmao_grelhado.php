@@ -5,7 +5,7 @@
     <!--Imgbox and information chart-->
 
     <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-      Sonho.
+      Salmão Grelhado.
     </h1>
     <div
       class="d-flex mx-auto flex-wrap justify-content-center"
@@ -13,8 +13,8 @@
     >
       <img
         class="mb-1 rounded-3 img-fluid me-3 shadow-sm"
-        src="./img/sonho.jpg"
-        alt="sonho foto"
+        src="./img/salmao.jpg"
+        alt="salmão grelhado foto"
         style="width: 400px"
       />
       <div
@@ -22,7 +22,7 @@
         style="width: 328px; background-color: #ffffff"
       >
         <div class="mx-3 my-3">
-        A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.
+        Salmão grelhado é uma receita simples e deliciosa, que pode ser feita em casa com poucos ingredientes.
         </div>
         <div
           class="mx-3 rounded-3 mb-3 d-flex justify-content-around"
@@ -33,13 +33,13 @@
               <img src="./img/timer.png" alt="" style="height: fit-content" />
               <p>Tempo de preparo</p>
             </div>
-            <div><p>90 minutos</p></div>
+            <div><p>20 minutos</p></div>
           </div>
           <div class="d-flex m-3 flex-column">
             <div style="color: #236828">
               <img src="./img/garfo.png" style="height: fit-content" alt="" />
               <p>Rendimento</p>
-              <div><p>8 porções</p></div>
+              <div><p>2 porções</p></div>
             </div>
           </div>
         </div>
@@ -61,29 +61,21 @@
       <div class="rounded-3 m-3">
         
         <ul class="lh-lg">
-          <li>1 kg de farinha de trigo</li>
+          <li>2 postas de salmão</li>
 
-          <li>10 g de fermento para pão</li>
+          <li>Sal</li>
 
-          <li>1 ovo</li>
+          <li>Sumo de 2 limões</li>
 
-          <li>1 xícara de açúcar</li>
+          <li>1 colher (chá) de massa de alho</li>
 
           <li>1 pitada de sal</li>
 
-          <li>1/2 xícara de óleo</li>
+          <li>Coentro picado a gosto</li>
 
-          <li>1/2 l de leite morno</li>
+          <li>50 ml de azeite</li>
 
-          <li>1/2 l de leite</li>
-
-          <li>1 gema</li>
-
-          <li>2 colheres de sopa de maizena</li>
-
-          <li>1 lata de leite condensado</li>
-
-          <li>Açúcar a gosto</li>
+          <li>1 raminho de coentro</li>
 
         </ul>
         
@@ -102,27 +94,27 @@
         
         <ol class="lh-lg">
           <li>
-          Dissolva o fermento com o leite morno, depois coloque o açúcar e os demais ingredientes.
+          Tempere as postas de um dia para o outro em sal e limão.
           </li>
 
           <li>
-          Sove a massa até que fique sem grudar nas mãos.
+          Na hora de grelhar, prepare o molho, misturando todos os ingredientes.
           </li>
 
           <li>
-          Faça bolinhas do tamanho que preferir e deixe a massa crescer por mais ou menos 1 hora.
+          Pincele as postas com o raminho de coentro.
           </li>
 
           <li>
-          Após isso, frite em óleo quente e recheie.
+          Grelhe, pincelando com o molho sempre que vira.
           </li>
 
           <li>
-          Para preparar o recheio é só misturar todos ingredientes e leva ao fogo, sempre mexendo, até engrossar.
+          Na última virada, cubra as postas com os ingredientes do molho.
           </li>
 
           <li>
-          Se preferir você pode rechear com brigadeiro que fica muito bom!.
+          Deixe alourar um pouco mais para aderir bem e está pronto.
           </li>
 
         </ol>

@@ -5,7 +5,7 @@
     <!--Imgbox and information chart-->
 
     <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-      Sonho.
+      Espeto com legumes.
     </h1>
     <div
       class="d-flex mx-auto flex-wrap justify-content-center"
@@ -13,8 +13,8 @@
     >
       <img
         class="mb-1 rounded-3 img-fluid me-3 shadow-sm"
-        src="./img/sonho.jpg"
-        alt="sonho foto"
+        src="./img/espeto.jpg"
+        alt="espeto foto"
         style="width: 400px"
       />
       <div
@@ -22,7 +22,7 @@
         style="width: 328px; background-color: #ffffff"
       >
         <div class="mx-3 my-3">
-        A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.
+        Deliciosa receita de espeto com legumes, ideal para servir como entrada ou acompanhamento.
         </div>
         <div
           class="mx-3 rounded-3 mb-3 d-flex justify-content-around"
@@ -33,13 +33,13 @@
               <img src="./img/timer.png" alt="" style="height: fit-content" />
               <p>Tempo de preparo</p>
             </div>
-            <div><p>90 minutos</p></div>
+            <div><p>40 minutos</p></div>
           </div>
           <div class="d-flex m-3 flex-column">
             <div style="color: #236828">
               <img src="./img/garfo.png" style="height: fit-content" alt="" />
               <p>Rendimento</p>
-              <div><p>8 porções</p></div>
+              <div><p>6 porções</p></div>
             </div>
           </div>
         </div>
@@ -61,29 +61,21 @@
       <div class="rounded-3 m-3">
         
         <ul class="lh-lg">
-          <li>1 kg de farinha de trigo</li>
+          <li>800g de alcatra em cubos</li>
 
-          <li>10 g de fermento para pão</li>
+          <li>Sal e pimenta-do-reino a gosto</li>
 
-          <li>1 ovo</li>
+          <li>1 cebola roxa em cubos</li>
 
-          <li>1 xícara de açúcar</li>
+          <li>200g de tomates-cerejas</li>
 
-          <li>1 pitada de sal</li>
+          <li>1 pimentão amarelo em cubos</li>
 
-          <li>1/2 xícara de óleo</li>
+          <li>1 pimentão verde em cubos</li>
 
-          <li>1/2 l de leite morno</li>
+          <li>Azeite para regar</li>
 
-          <li>1/2 l de leite</li>
-
-          <li>1 gema</li>
-
-          <li>2 colheres de sopa de maizena</li>
-
-          <li>1 lata de leite condensado</li>
-
-          <li>Açúcar a gosto</li>
+          <li>Farofa e vinagrete para acompanhar</li>
 
         </ul>
         
@@ -102,27 +94,23 @@
         
         <ol class="lh-lg">
           <li>
-          Dissolva o fermento com o leite morno, depois coloque o açúcar e os demais ingredientes.
+          Tempere a carne com sal e pimenta.
           </li>
 
           <li>
-          Sove a massa até que fique sem grudar nas mãos.
+          Em espetinhos de madeira para churrasco, intercale cubos de carne, de cebola, de tomate-cereja e de pimentão amarelo e verde.
           </li>
 
           <li>
-          Faça bolinhas do tamanho que preferir e deixe a massa crescer por mais ou menos 1 hora.
+          Repita o procedimento fazendo mais camadas e fazendo mais espetinhos até acabarem os ingredientes.
           </li>
 
           <li>
-          Após isso, frite em óleo quente e recheie.
+          Coloque em uma fôrma com grelha, regue com azeite e leve ao forno médio, preaquecido, por 20 minutos ou até dourar.
           </li>
 
           <li>
-          Para preparar o recheio é só misturar todos ingredientes e leva ao fogo, sempre mexendo, até engrossar.
-          </li>
-
-          <li>
-          Se preferir você pode rechear com brigadeiro que fica muito bom!.
+          Retire e sirva em seguida, acompanhado de farofa e vinagrete.
           </li>
 
         </ol>

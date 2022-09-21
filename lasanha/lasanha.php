@@ -5,7 +5,7 @@
     <!--Imgbox and information chart-->
 
     <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-      Sonho.
+      Lasanha.
     </h1>
     <div
       class="d-flex mx-auto flex-wrap justify-content-center"
@@ -13,8 +13,8 @@
     >
       <img
         class="mb-1 rounded-3 img-fluid me-3 shadow-sm"
-        src="./img/sonho.jpg"
-        alt="sonho foto"
+        src="./img/lasanha.png"
+        alt="lasanha foto"
         style="width: 400px"
       />
       <div
@@ -22,7 +22,7 @@
         style="width: 328px; background-color: #ffffff"
       >
         <div class="mx-3 my-3">
-        A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.
+        Lasanha é um prato de origem italiana, feito com massa de lasanha, molho de tomate, queijo mussarela, presunto e molho branco.
         </div>
         <div
           class="mx-3 rounded-3 mb-3 d-flex justify-content-around"
@@ -33,13 +33,13 @@
               <img src="./img/timer.png" alt="" style="height: fit-content" />
               <p>Tempo de preparo</p>
             </div>
-            <div><p>90 minutos</p></div>
+            <div><p>50 minutos</p></div>
           </div>
           <div class="d-flex m-3 flex-column">
             <div style="color: #236828">
               <img src="./img/garfo.png" style="height: fit-content" alt="" />
               <p>Rendimento</p>
-              <div><p>8 porções</p></div>
+              <div><p>15 porção</p></div>
             </div>
           </div>
         </div>
@@ -61,29 +61,33 @@
       <div class="rounded-3 m-3">
         
         <ul class="lh-lg">
-          <li>1 kg de farinha de trigo</li>
+          <li>500 g de massa de lasanha</li>
 
-          <li>10 g de fermento para pão</li>
+          <li>500 g de carne moída</li>
 
-          <li>1 ovo</li>
+          <li>2 caixas de creme de leite</li>
 
-          <li>1 xícara de açúcar</li>
+          <li>3 colheres de manteiga</li>
 
-          <li>1 pitada de sal</li>
+          <li>3 colheres de farinha de trigo</li>
 
-          <li>1/2 xícara de óleo</li>
+          <li>500 g de presunto</li>
 
-          <li>1/2 l de leite morno</li>
+          <li>500 g de mussarela</li>
 
-          <li>1/2 l de leite</li>
+          <li>Sal a gosto</li>
 
-          <li>1 gema</li>
+          <li>2 copos de leite</li>
 
-          <li>2 colheres de sopa de maizena</li>
+          <li>1 cebola ralada</li>
 
-          <li>1 lata de leite condensado</li>
+          <li>3 colheres de óleo</li>
 
-          <li>Açúcar a gosto</li>
+          <li>1 caixa de molho de tomate</li>
+
+          <li>3 dentes de alho amassados</li>
+
+          <li>1 pacote de queijo ralado</li>
 
         </ul>
         
@@ -102,28 +106,30 @@
         
         <ol class="lh-lg">
           <li>
-          Dissolva o fermento com o leite morno, depois coloque o açúcar e os demais ingredientes.
+          Cozinhe a massa segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve.
           </li>
 
           <li>
-          Sove a massa até que fique sem grudar nas mãos.
+          Refogue o alho, a cebola, a carne moída, o molho de tomate, deixe cozinhar por 3 minutos e reserve.
           </li>
 
           <li>
-          Faça bolinhas do tamanho que preferir e deixe a massa crescer por mais ou menos 1 hora.
+          Derreta a margarina, coloque as 3 colheres de farinha de trigo e mexa.
           </li>
 
           <li>
-          Após isso, frite em óleo quente e recheie.
+          Despeje o leite aos poucos e continue mexendo.
           </li>
 
           <li>
-          Para preparar o recheio é só misturar todos ingredientes e leva ao fogo, sempre mexendo, até engrossar.
+          Por último, coloque o creme de leite, mexa por 1 minuto e desligue o fogo.
           </li>
 
-          <li>
-          Se preferir você pode rechear com brigadeiro que fica muito bom!.
-          </li>
+          <li>Despeje uma parte do molho à bolonhesa em um refratário, a metade da massa, a metade do presunto, a metade da mussarela, todo o molho branco e o restante da massa.</li>
+
+          <li>Repita as camadas até a borda do recipiente.</li>
+
+          <li>Finalize com o queijo ralado e leve ao forno alto (220° C), preaquecido, por cerca de 20 minutos.</li>
 
         </ol>
         

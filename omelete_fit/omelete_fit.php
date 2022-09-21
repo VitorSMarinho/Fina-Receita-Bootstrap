@@ -5,7 +5,7 @@
     <!--Imgbox and information chart-->
 
     <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-      Sonho.
+      Omelete Fit.
     </h1>
     <div
       class="d-flex mx-auto flex-wrap justify-content-center"
@@ -13,8 +13,8 @@
     >
       <img
         class="mb-1 rounded-3 img-fluid me-3 shadow-sm"
-        src="./img/sonho.jpg"
-        alt="sonho foto"
+        src="./img/omelete.jpg"
+        alt="omelete foto"
         style="width: 400px"
       />
       <div
@@ -22,7 +22,7 @@
         style="width: 328px; background-color: #ffffff"
       >
         <div class="mx-3 my-3">
-        A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.
+        É um prato feito de ovos batidos com manteiga ou óleo, geralmente com outros ingredientes como queijo, presunto, ervas aromáticas.
         </div>
         <div
           class="mx-3 rounded-3 mb-3 d-flex justify-content-around"
@@ -33,13 +33,13 @@
               <img src="./img/timer.png" alt="" style="height: fit-content" />
               <p>Tempo de preparo</p>
             </div>
-            <div><p>90 minutos</p></div>
+            <div><p>5 minutos</p></div>
           </div>
           <div class="d-flex m-3 flex-column">
             <div style="color: #236828">
               <img src="./img/garfo.png" style="height: fit-content" alt="" />
               <p>Rendimento</p>
-              <div><p>8 porções</p></div>
+              <div><p>1 porção</p></div>
             </div>
           </div>
         </div>
@@ -61,29 +61,15 @@
       <div class="rounded-3 m-3">
         
         <ul class="lh-lg">
-          <li>1 kg de farinha de trigo</li>
-
-          <li>10 g de fermento para pão</li>
-
           <li>1 ovo</li>
 
-          <li>1 xícara de açúcar</li>
+          <li>1 colher (sopa) de aveia</li>
 
-          <li>1 pitada de sal</li>
+          <li>Recheio de sua preferência</li>
 
-          <li>1/2 xícara de óleo</li>
+          <li>Sal a gosto</li>
 
-          <li>1/2 l de leite morno</li>
-
-          <li>1/2 l de leite</li>
-
-          <li>1 gema</li>
-
-          <li>2 colheres de sopa de maizena</li>
-
-          <li>1 lata de leite condensado</li>
-
-          <li>Açúcar a gosto</li>
+          <li>Azeite (opcional)</li>
 
         </ul>
         
@@ -102,27 +88,19 @@
         
         <ol class="lh-lg">
           <li>
-          Dissolva o fermento com o leite morno, depois coloque o açúcar e os demais ingredientes.
+          Em um recipiente, junte o ovo, a aveia, uma pitada de sal e misture.
           </li>
 
           <li>
-          Sove a massa até que fique sem grudar nas mãos.
+          Acrescente o recheio que desejar logo na mistura ou coloque depois que o omelete já estiver pronto.
           </li>
 
           <li>
-          Faça bolinhas do tamanho que preferir e deixe a massa crescer por mais ou menos 1 hora.
+          Em uma frigideira, coloque um fio de azeite e a mistura.
           </li>
 
           <li>
-          Após isso, frite em óleo quente e recheie.
-          </li>
-
-          <li>
-          Para preparar o recheio é só misturar todos ingredientes e leva ao fogo, sempre mexendo, até engrossar.
-          </li>
-
-          <li>
-          Se preferir você pode rechear com brigadeiro que fica muito bom!.
+          Vire, deixe fritar do outro lado e está pronto.
           </li>
 
         </ol>

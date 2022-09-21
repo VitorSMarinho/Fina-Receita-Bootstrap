@@ -5,7 +5,7 @@
     <!--Imgbox and information chart-->
 
     <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-      Sonho.
+      Tabule.
     </h1>
     <div
       class="d-flex mx-auto flex-wrap justify-content-center"
@@ -13,8 +13,8 @@
     >
       <img
         class="mb-1 rounded-3 img-fluid me-3 shadow-sm"
-        src="./img/sonho.jpg"
-        alt="sonho foto"
+        src="./img/tabule.jpg"
+        alt="tabule foto"
         style="width: 400px"
       />
       <div
@@ -22,7 +22,7 @@
         style="width: 328px; background-color: #ffffff"
       >
         <div class="mx-3 my-3">
-        A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.
+        Tabule é um prato de origem árabe, feito com trigo, tomate, pepino, cebola, salsa, hortelã, limão e azeite.
         </div>
         <div
           class="mx-3 rounded-3 mb-3 d-flex justify-content-around"
@@ -33,13 +33,13 @@
               <img src="./img/timer.png" alt="" style="height: fit-content" />
               <p>Tempo de preparo</p>
             </div>
-            <div><p>90 minutos</p></div>
+            <div><p>40 minutos</p></div>
           </div>
           <div class="d-flex m-3 flex-column">
             <div style="color: #236828">
               <img src="./img/garfo.png" style="height: fit-content" alt="" />
               <p>Rendimento</p>
-              <div><p>8 porções</p></div>
+              <div><p>4 porções</p></div>
             </div>
           </div>
         </div>
@@ -61,29 +61,27 @@
       <div class="rounded-3 m-3">
         
         <ul class="lh-lg">
-          <li>1 kg de farinha de trigo</li>
+          <li>45 g de trigo para kibe</li>
 
-          <li>10 g de fermento para pão</li>
+          <li>200 g de tomate picado sem sementes</li>
 
-          <li>1 ovo</li>
+          <li>1 cebola picada</li>
 
-          <li>1 xícara de açúcar</li>
+          <li>2 pepinos picados</li>
 
-          <li>1 pitada de sal</li>
+          <li>1 maço de salsinha picada</li>
 
-          <li>1/2 xícara de óleo</li>
+          <li>3 colheres (sopa) de suco de limão</li>
 
-          <li>1/2 l de leite morno</li>
+          <li>2 colheres (sopa) de azeite</li>
 
-          <li>1/2 l de leite</li>
+          <li>Sal e pimenta-do-reino a gosto</li>
 
-          <li>1 gema</li>
+          <li>1/4 colher (chá) de noz-moscada</li>
 
-          <li>2 colheres de sopa de maizena</li>
+          <li>Hortelã picada</li>
 
-          <li>1 lata de leite condensado</li>
-
-          <li>Açúcar a gosto</li>
+          <li>Salsa picada</li>
 
         </ul>
         
@@ -102,27 +100,23 @@
         
         <ol class="lh-lg">
           <li>
-          Dissolva o fermento com o leite morno, depois coloque o açúcar e os demais ingredientes.
+          Em um recipiente, deixe o trigo de molho por 2 horas.
           </li>
 
           <li>
-          Sove a massa até que fique sem grudar nas mãos.
+          Lave bem o trigo em água corrente, escorra e esprema nas mão para retirar o excesso de umidade.
           </li>
 
           <li>
-          Faça bolinhas do tamanho que preferir e deixe a massa crescer por mais ou menos 1 hora.
+          Passe a cebola picada em água fria e escorra bem.
           </li>
 
           <li>
-          Após isso, frite em óleo quente e recheie.
+          Junte os outros ingredientes (menos o tomate) e deixe tampado na geladeira por pelo menos 8 horas.
           </li>
 
           <li>
-          Para preparar o recheio é só misturar todos ingredientes e leva ao fogo, sempre mexendo, até engrossar.
-          </li>
-
-          <li>
-          Se preferir você pode rechear com brigadeiro que fica muito bom!.
+          Acrescente os tomates na hora de servir.
           </li>
 
         </ol>

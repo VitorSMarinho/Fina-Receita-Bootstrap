@@ -5,7 +5,7 @@
     <!--Imgbox and information chart-->
 
     <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-      Sonho.
+      Hot Dog norte-americano.
     </h1>
     <div
       class="d-flex mx-auto flex-wrap justify-content-center"
@@ -13,8 +13,8 @@
     >
       <img
         class="mb-1 rounded-3 img-fluid me-3 shadow-sm"
-        src="./img/sonho.jpg"
-        alt="sonho foto"
+        src="./img/hotdog.jpg"
+        alt="hotdog foto"
         style="width: 400px"
       />
       <div
@@ -22,7 +22,7 @@
         style="width: 328px; background-color: #ffffff"
       >
         <div class="mx-3 my-3">
-        A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.
+        Hot dog é um sanduíche feito com salsicha, pão e molhos.
         </div>
         <div
           class="mx-3 rounded-3 mb-3 d-flex justify-content-around"
@@ -33,13 +33,13 @@
               <img src="./img/timer.png" alt="" style="height: fit-content" />
               <p>Tempo de preparo</p>
             </div>
-            <div><p>90 minutos</p></div>
+            <div><p>30 minutos</p></div>
           </div>
           <div class="d-flex m-3 flex-column">
             <div style="color: #236828">
               <img src="./img/garfo.png" style="height: fit-content" alt="" />
               <p>Rendimento</p>
-              <div><p>8 porções</p></div>
+              <div><p>10 porção</p></div>
             </div>
           </div>
         </div>
@@ -61,29 +61,33 @@
       <div class="rounded-3 m-3">
         
         <ul class="lh-lg">
-          <li>1 kg de farinha de trigo</li>
+          <li>10 salsichas</li>
 
-          <li>10 g de fermento para pão</li>
+          <li>Molho de tomate</li>
 
-          <li>1 ovo</li>
+          <li>Água</li>
 
-          <li>1 xícara de açúcar</li>
+          <li>3 tomates</li>
 
-          <li>1 pitada de sal</li>
+          <li>2 pimentões</li>
 
-          <li>1/2 xícara de óleo</li>
+          <li>2 cebolas</li>
 
-          <li>1/2 l de leite morno</li>
+          <li>1 colher de chá rasa de sal</li>
 
-          <li>1/2 l de leite</li>
+          <li>1/2 colher de chá rasa de pimenta em pó</li>
 
-          <li>1 gema</li>
+          <li>Orégano a gosto</li>
 
-          <li>2 colheres de sopa de maizena</li>
+          <li>Maionese a gosto</li>
 
-          <li>1 lata de leite condensado</li>
+          <li>10 pães</li>
 
-          <li>Açúcar a gosto</li>
+          <li>Molho rosé a gosto</li>
+
+          <li>Catchup a gosto</li>
+
+          <li>Batata palha</li>
 
         </ul>
         
@@ -102,28 +106,28 @@
         
         <ol class="lh-lg">
           <li>
-          Dissolva o fermento com o leite morno, depois coloque o açúcar e os demais ingredientes.
+          Coloque as salsichas em uma panela com molho de tomate e um pouco de água, deixe ferver e desligue o fogo e reserve.
           </li>
 
           <li>
-          Sove a massa até que fique sem grudar nas mãos.
+          Corte os tomates, os pimentões e as cebolas em tiras bem finas.
           </li>
 
           <li>
-          Faça bolinhas do tamanho que preferir e deixe a massa crescer por mais ou menos 1 hora.
+          Não retirar as sementes do tomate, raspe para que fique com a água do tomate.
           </li>
 
           <li>
-          Após isso, frite em óleo quente e recheie.
+          Misture toda a verdura e tempere com o sal, a pimenta em pó,o orégano a gosto, misture tudo e coloque no fogo baixo.
           </li>
 
           <li>
-          Para preparar o recheio é só misturar todos ingredientes e leva ao fogo, sempre mexendo, até engrossar.
+          Deixe apenas esquentar um pouco, retire do fogo e reserve.
           </li>
 
-          <li>
-          Se preferir você pode rechear com brigadeiro que fica muito bom!.
-          </li>
+          <li>Corte um pão no meio, passe um pouco do molho de cenoura e maionese, coloque 1 salsicha com 1 colher do molho de tomate.</li>
+
+          <li>Coloque a salada de verdura molho rosé a gosto, catchup a gosto e cubra com batata palha.</li>
 
         </ol>
         

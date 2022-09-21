@@ -5,7 +5,7 @@
     <!--Imgbox and information chart-->
 
     <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-      Sonho.
+      Taco.
     </h1>
     <div
       class="d-flex mx-auto flex-wrap justify-content-center"
@@ -13,8 +13,8 @@
     >
       <img
         class="mb-1 rounded-3 img-fluid me-3 shadow-sm"
-        src="./img/sonho.jpg"
-        alt="sonho foto"
+        src="./img/taco.jpg"
+        alt="taco foto"
         style="width: 400px"
       />
       <div
@@ -22,7 +22,7 @@
         style="width: 328px; background-color: #ffffff"
       >
         <div class="mx-3 my-3">
-        A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.
+        Taco é um prato de origem mexicana, feito com tortilla de milho, carne, queijo, cebola, pimenta, salsa e molho de tomate.
         </div>
         <div
           class="mx-3 rounded-3 mb-3 d-flex justify-content-around"
@@ -33,13 +33,13 @@
               <img src="./img/timer.png" alt="" style="height: fit-content" />
               <p>Tempo de preparo</p>
             </div>
-            <div><p>90 minutos</p></div>
+            <div><p>40 minutos</p></div>
           </div>
           <div class="d-flex m-3 flex-column">
             <div style="color: #236828">
               <img src="./img/garfo.png" style="height: fit-content" alt="" />
               <p>Rendimento</p>
-              <div><p>8 porções</p></div>
+              <div><p>20 porções</p></div>
             </div>
           </div>
         </div>
@@ -61,29 +61,47 @@
       <div class="rounded-3 m-3">
         
         <ul class="lh-lg">
-          <li>1 kg de farinha de trigo</li>
+          <li>1 pacote médio de massa para pastel</li>
 
-          <li>10 g de fermento para pão</li>
+          <li>Chilli</li>
 
-          <li>1 ovo</li>
+          <li>400 g de carne de moida</li>
 
-          <li>1 xícara de açúcar</li>
+          <li>1 colher (chá) de óleo</li>
 
-          <li>1 pitada de sal</li>
+          <li>2 cebolas médias picadas</li>
 
-          <li>1/2 xícara de óleo</li>
+          <li>Pimenta a gosto</li>
 
-          <li>1/2 l de leite morno</li>
+          <li>4 colheres (sopa) de extrato de tomate</li>
 
-          <li>1/2 l de leite</li>
+          <li>2 colheres (sopa) de mostarda</li>
 
-          <li>1 gema</li>
+          <li>2 xícaras (chá) de feijão preto cozido</li>
 
-          <li>2 colheres de sopa de maizena</li>
+          <li>150 g de queijo mussarela</li>
 
-          <li>1 lata de leite condensado</li>
+          <li>sal a gosto</li>
 
-          <li>Açúcar a gosto</li>
+          <li>Guacamole</li>
+
+          <li>1 abacate médio</li>
+
+          <li>Pimenta a gosto</li>
+
+          <li>1 cebola média picada</li>
+
+          <li>Suco de 1 limão médio</li>
+
+          <li>3 colheres (sopa) de azeite de oliva</li>
+
+          <li>Acompanhamentos</li>
+
+          <li>1/2 maço de alface picado</li>
+
+          <li>250 g de queijo mussarela picado</li>
+
+          <li>4 tomates sem pele picados</li>
 
         </ul>
         
@@ -102,28 +120,42 @@
         
         <ol class="lh-lg">
           <li>
-          Dissolva o fermento com o leite morno, depois coloque o açúcar e os demais ingredientes.
+          Tortilhas
           </li>
 
           <li>
-          Sove a massa até que fique sem grudar nas mãos.
+          Sapeque 1 masas de pastel por vez em uma frigideira antiaderente, até a mesma ficar tostada.
           </li>
 
           <li>
-          Faça bolinhas do tamanho que preferir e deixe a massa crescer por mais ou menos 1 hora.
+          Chilli
           </li>
 
           <li>
-          Após isso, frite em óleo quente e recheie.
+          Doure a cebola, depois a carne moída, em seguida coloque o extrato de tomate, a mostarda, pimenta, sal e diexe apurar por uns 10 minutos.
           </li>
 
           <li>
-          Para preparar o recheio é só misturar todos ingredientes e leva ao fogo, sempre mexendo, até engrossar.
+          Bata no liquidificador com um pouco do próprio caldo o feijão.
           </li>
 
-          <li>
-          Se preferir você pode rechear com brigadeiro que fica muito bom!.
-          </li>
+          <li>Em seguida, quando o molho estiver quase seco, despeje o feijão e após o queijo mussarela.</li>
+
+          <li>Deixe cozer até ficar com consistência de pasta, bem grossa.</li>
+
+          <li>O Chilli deve ficar bem picante. Sirva quente.</li>
+
+          <li>Guacamole</li>
+
+          <li>Retire a polpa do abacate. Bata todos os ingredientes no liquidificador.</li>
+
+          <li>Modo de servir</li>
+
+          <li>Coloque cada item em cumbucas, inclusive o alface, o tomate picado e o quiejo picado.</li>
+
+          <li>Monte o Taco: primeiro, com a massa tostada, coloque uma colher de sopa do chilli, em seguida o queijo para derreter, após o tomate picado, o alface e por ultimo uma colher de sopa rasa de guacamole.</li>
+
+          <li>Feche o taco, como uma tortilha ou pastel.</li>
 
         </ol>
         
