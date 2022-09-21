@@ -10,7 +10,6 @@
       <div class="card-body">
         <p class="lh-lg" style="color: #236828">
           Estudantes do curso em Tecnologia em Sistemas para Internet.<br />
-          Eduardo Augusto Gomes de Oliveira Prado<br />
           Igor Micali<br />
           Vitor dos Santos Marinho<br />
           William Fernandes Pereira
