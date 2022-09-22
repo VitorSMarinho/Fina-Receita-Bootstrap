@@ -44,17 +44,18 @@
           <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex align-items-center">
             <li class="nav-item ms-3 mt-3">
             <div class="log">
-                <p class="d-flex align-items-center"><a href="login.php"><img src="./img/enter.png" alt="login" style="height: 2em;"/></a>
-                <a class="nav-link active" aria-current="page" href="login.php"
-                  >Login
-                </a></p>
+                <a href="../login/login.php" style="text-decoration: none; color:white">
+                <p class="d-flex align-items-center"><img src="./img/enter.png" alt="login" style="height: 2em;"/>
+                Login
+                </p>
+                </a>
             </li>
             <li class="nav-item ms-5 mt-3">
               <div class="log">
-                <p class="d-flex align-items-center"><a href="cadastro.php"><img src="./img/edit.png" alt="cadastrar-se" style="height: 2em;"/></a>
-                <a class="nav-link active" aria-current="page" href="cadastro.php"
-                  >Cadastrar-se
-                </a></p>
+              <a href="../cadastro/cadastro.php" style="text-decoration: none; color:white">
+                <p class="d-flex align-items-center"><img src="./img/edit.png" alt="cadastrar-se" style="height: 2em;"/>
+                Cadastrar-se
+                </p></a>
               </div>
             </li>
           </ul>
