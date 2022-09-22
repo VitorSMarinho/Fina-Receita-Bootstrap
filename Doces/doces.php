@@ -7,7 +7,7 @@
         <img src="img/chef.png" style="height: 2rem" />
         <p style="color: #236828">Doces</p>
       </div>
-      <div class="card-pizza">
+      
         <div class="card mb-3" style="max-width: 800px;">
           <div class="row g-0">
             <div class="col-md-4">
@@ -24,7 +24,7 @@
             </div>
           </div>
         </div>
-      </div>
+      
       <div class="card mb-3" style="max-width: 800px;">
         <div class="row g-0">
           <div class="col-md-4">
@@ -32,7 +32,7 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h5 class="card-title">Bombom de Morango</h5>
+              <h5 class="card-title">Bombom de Morango na travessa</h5>
               <p class="card-text">Simples e fácil de fazer, o bombom na travessa é uma receita de sobremesa que leva apenas 5 ingredientes.</p>
               <div>
                 <button type="button" class="btn btn-outline-secondary">Ver mais</button>
@@ -41,15 +41,16 @@
           </div>
         </div>
       </div>
+
       <div class="card mb-3" style="max-width: 800px;">
         <div class="row g-0">
           <div class="col-md-4">
-            <img src="img/pudim.png" class="img-fluid rounded-start" alt="...">
+            <img src="img/brigadeiro.jpg" class="img-fluid rounded-start" alt="...">
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h5 class="card-title">Pudim de Pão</h5>
-              <latina class="card-text">Receita de pudim de pão com apenas quatro ingredientes muito fácil de fazer para você que está procurando um pudim diferente.</p>
+              <h5 class="card-title">Brigadeiro</h5>
+              <latina class="card-text">O brigadeiro é um doce típico da culinária brasileira, de origem paulista, o qual rapidamente se difundiu pelo resto do país.</p>
               <div>
                 <button type="button" class="btn btn-outline-secondary">Ver mais</button>
               </div>
@@ -57,7 +58,44 @@
           </div>
         </div>
       </div>
-      <button type="button" class="col-lg-2 mx-auto btn btn-outline-secondary">Ver mais</button>
+
+
+      <div class="card mb-3" style="max-width: 800px;">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="img/pudim.png" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">Pudim de leite</h5>
+              <latina class="card-text">Receita de pudim de leite com apenas quatro ingredientes muito fácil de fazer para você que está procurando um pudim diferente.</p>
+              <div>
+                <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card mb-3" style="max-width: 800px;">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="img/sonho.jpg" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">Sonho</h5>
+              <latina class="card-text">A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.</p>
+              <div>
+                <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <button type="button" class="col-lg-2 mx-auto btn btn-outline-secondary" style="display: none;">Ver mais</button>
     </div>
     
 

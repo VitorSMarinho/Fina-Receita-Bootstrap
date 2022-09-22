@@ -20,7 +20,7 @@
       class="navbar navbar-expand-lg navbar-dark" style="background-color: #db0138"
     >
       <div class="container-fluid" >
-        <a class="navbar-brand ms-2" href="#"
+        <a class="navbar-brand ms-2" href="../home_page/home.php"
           ><img src="./img/FinaReceita.png" alt="logo" style="height: 3rem"
         /></a>
         <button
@@ -95,9 +95,11 @@
         </a>
 
         <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-          <li><a class="dropdown-item" href="#">Brigadeiro</a></li>
-          <li><a class="dropdown-item" href="#">Pudim</a></li>
-          <li><a class="dropdown-item" href="#">Sonho</a></li>
+          <li><a class="dropdown-item" href="../bolo_cenoura/bolo_cenoura.php">Bolo de cenoura</a></li>
+          <li><a class="dropdown-item" href="../bombom/bombom.php">Bombom na Travessa</a></li>
+          <li><a class="dropdown-item" href="../brigadeiro/brigadeiro.php">Brigadeiro</a></li>
+          <li><a class="dropdown-item" href="../pudim/pudim.php">Pudim de leite</a></li>
+          <li><a class="dropdown-item" href="../sonho/sonho.php">Sonho</a></li>
         </ul>
       </div>
 
@@ -119,9 +121,13 @@
         </a>
 
         <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-          <li><a class="dropdown-item" href="#">Macarrão a Bolonhesa</a></li>
-          <li><a class="dropdown-item" href="#">Espeto com Legumes</a></li>
-          <li><a class="dropdown-item" href="#">Pizza de Mussarela</a></li>
+          <li><a class="dropdown-item" href="../espeto/espeto.php">Espeto com Legumes</a></li>
+          <li><a class="dropdown-item" href="../feijoada/feijoada.php">Feijoada</a></li>
+          <li><a class="dropdown-item" href="../hotdog/hotdog.php">Hot Dog</a></li>
+          <li><a class="dropdown-item" href="../lasanha/lasanha.php">Lasanha</a></li>
+          <li><a class="dropdown-item" href="../macarrao/macarrao.php">Macarrão a Bolonhesa</a></li>
+          <li><a class="dropdown-item" href="../pizza/pizza.php">Pizza de Mussarela</a></li>
+          <li><a class="dropdown-item" href="../taco/taco_mexicano.php">Taco</a></li>
         </ul>
       </div>
 
@@ -143,9 +149,12 @@
         </a>
 
         <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-          <li><a class="dropdown-item" href="#">Omelete Fit</a></li>
-          <li><a class="dropdown-item" href="#">Salmão Grelhado</a></li>
-          <li><a class="dropdown-item" href="#">Tabule</a></li>
+          <li><a class="dropdown-item" href="../beringela/beringela.php">Beringela e Frango Fit</a></li>
+          <li><a class="dropdown-item" href="../omelete_fit/omelete_fit.php">Omelete Fit</a></li>
+          <li><a class="dropdown-item" href="../omelete_forno/omelete_forno.php">Omelete de Forno</a></li>
+          <li><a class="dropdown-item" href="../salada/salada.php">Grão de Bico e Bacalhau</a></li>
+          <li><a class="dropdown-item" href="../salmao_grelhado/salmao_grelhado.php">Salmão Grelhado</a></li>
+          <li><a class="dropdown-item" href="../tabule/tabule.php">Tabule</a></li>
         </ul>
       </div>
 

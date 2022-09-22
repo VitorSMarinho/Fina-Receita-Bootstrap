@@ -15,18 +15,19 @@
               <!-- Links -->
               <h6 class="text-uppercase text-light fw-bold mb-4">Categorias</h6>
               <p>
-                <a href="#!" class="text-decoration-none text-light"
-                  >Salgados</a
-                >
-              </p>
-              <p>
-                <a href="#!" class="text-decoration-none text-light">Doces</a>
-              </p>
-              <p>
-                <a href="#!" class="text-decoration-none text-light"
+                <a href="../alimentacao_saudavel/alimsaudavel.php" class="text-decoration-none text-light"
                   >Alimentação Saudável</a
                 >
               </p>
+              <p>
+                <a href="../doces/doces.php" class="text-decoration-none text-light">Doces</a>
+              </p>
+              <p>
+                <a href="../salgados/salgados.php" class="text-decoration-none text-light"
+                  >Salgados</a
+                >
+              </p>
+              
             </div>
             <!-- Grid column -->
 
@@ -37,36 +38,37 @@
                 Sobre o Fina Receita
               </h6>
               <p>
-                <a href="#!" class="text-decoration-none text-light"
+                <a href="../contato/contato.php" class="text-decoration-none text-light">Contato</a>
+              </p>
+              <p>
+                <a href="../quem_somos/quemsomos.php" class="text-decoration-none text-light"
                   >Quem somos</a
                 >
               </p>
-              <p>
-                <a href="#!" class="text-decoration-none text-light">Contato</a>
-              </p>
+              
             </div>
             <!-- Grid column -->
 
             <!-- Grid column -->
             <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
               <div>
-                <img
+                <a href="../home_page/home.php"><img
                   src="./img/FinaReceita.png"
                   alt="logo"
                   style="height: 60px"
-                />
+                /></a>
               </div>
               <div>
-                <img
+                <a href="#"><img
                   src="./img/instagram-logo.png"
                   alt="instragam"
                   style="height: 40px"
-                />
-                <img
+                /></a>
+                <a href="#"><img
                   src="./img/facebook.png"
                   alt="facebook"
                   style="height: 40px"
-                />
+                /></a>
               </div>
             </div>
             <!-- Grid column -->
