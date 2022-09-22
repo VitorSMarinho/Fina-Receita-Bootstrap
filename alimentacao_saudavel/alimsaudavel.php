@@ -16,11 +16,13 @@
               </div>
               <div class="col-md-8">
                 <div class="card-body">
+                  <a href="../beringela/beringela.php" style="text-decoration: none; color:black">
                   <h5 class="card-title">Berinjela Recheada com Frango Fit</h5>
                   <p class="card-text">Uma receita saborosa e ligth, berinjela de forno recheada com frango, ótimo prato pra quem segue uma dieta leve queira comer de tudo.</p>
                   <div>
-                    <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                    <button type="button" class="btn btn-outline-success">Ver mais</button>
                   </div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -33,11 +35,13 @@
               </div>
               <div class="col-md-8">
                 <div class="card-body">
+                  <a href="../omelete_fit/omelete_fit.php" style="text-decoration: none; color:black">
                   <h5 class="card-title">Omelete Fit</h5>
                   <p class="card-text">É um prato feito de ovos batidos com manteiga ou óleo, geralmente com outros ingredientes como queijo, presunto, ervas aromáticas.</p>
                   <div>
-                    <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                    <button type="button" class="btn btn-outline-success">Ver mais</button>
                   </div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -50,11 +54,14 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
+               <a href="../omelete_forno/omelete_forno.php" style="text-decoration: none; color:black">
                 <h5 class="card-title">Omelete de Forno</h5>
-                <latina class="card-text">Aprenda a preparar Omelete de forno com legumes com esta excelente e fácil receita.</p>
+                <p class="card-text">Aprenda a preparar Omelete de forno com legumes com esta excelente e fácil receita.</p>
                 <div>
-                  <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                  <button type="button" class="btn btn-outline-success">Ver mais</button>
                 </div>
+                </p>
+               </a>
               </div>
             </div>
           </div>
@@ -68,12 +75,13 @@
               </div>
               <div class="col-md-8">
                 <div class="card-body">
+                <a href="../salada/salada.php" style="text-decoration: none; color:black">
                   <h5 class="card-title">Salada de Grão de Bico com Bacalhau</h5>
                   <p class="card-text">Uma deliciosa salada de grão de bico com Bacalhau, trazendo uma refeição muito saborosa e saudável. </p>
                   <div>
-                    <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                    <button type="button" class="btn btn-outline-success">Ver mais</button>
                   </div>
-                  
+                </a>
                 </div>
               </div>
             </div>
@@ -86,12 +94,13 @@
               </div>
               <div class="col-md-8">
                 <div class="card-body">
+                <a href="../salmao_grelhado/salmao_grelhado.php" style="text-decoration: none; color:black">
                   <h5 class="card-title">Salmão Grelhado</h5>
                   <p class="card-text">Salmão grelhado é uma receita simples e deliciosa, que pode ser feita em casa com poucos ingredientes.</p>
                   <div>
-                    <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                    <button type="button" class="btn btn-outline-success">Ver mais</button>
                   </div>
-                  
+                </a>
                 </div>
               </div>
             </div>
@@ -104,19 +113,20 @@
               </div>
               <div class="col-md-8">
                 <div class="card-body">
+                <a href="../tabule/tabule.php" style="text-decoration: none; color:black">
                   <h5 class="card-title">Tabule</h5>
                   <p class="card-text">Tabule é um prato de origem árabe, feito com trigo, tomate, pepino, cebola, salsa, hortelã, limão e azeite.</p>
                   <div>
-                    <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                    <button type="button" class="btn btn-outline-success">Ver mais</button>
                   </div>
-                  
+                </a>
                 </div>
               </div>
             </div>
           </div>
 
 
-      <button type="button" class="col-lg-2 mx-auto btn btn-outline-secondary" style="display: none;">Ver mais</button>
+      <button type="button" class="col-lg-2 mx-auto btn btn-outline-success" style="display: none;">Ver mais</button>
     </div>
     
 

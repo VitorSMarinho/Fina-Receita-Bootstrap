@@ -15,11 +15,13 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
+              <a href="../bolo_cenoura/bolo_cenoura.php" style="text-decoration: none; color:black">
                 <h5 class="card-title">Bolo de Cenoura com cobertura de chocolate</h5>
                 <p class="card-text">Bolo de cenouro macio, com cobertura de chocolate. Com poucos ingredientes você faz uma sobremesa e tanto. </p>
                 <div>
-                  <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                  <button type="button" class="btn btn-outline-success">Ver mais</button>
                 </div>
+              </a>
               </div>
             </div>
           </div>
@@ -32,11 +34,13 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
+            <a href="../bombom/bombom.php" style="text-decoration: none; color:black">
               <h5 class="card-title">Bombom de Morango na travessa</h5>
               <p class="card-text">Simples e fácil de fazer, o bombom na travessa é uma receita de sobremesa que leva apenas 5 ingredientes.</p>
               <div>
-                <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                <button type="button" class="btn btn-outline-success">Ver mais</button>
               </div>
+            </a>
             </div>
           </div>
         </div>
@@ -49,11 +53,14 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
+            <a href="../brigadeiro/brigadeiro.php" style="text-decoration: none; color:black">
               <h5 class="card-title">Brigadeiro</h5>
-              <latina class="card-text">O brigadeiro é um doce típico da culinária brasileira, de origem paulista, o qual rapidamente se difundiu pelo resto do país.</p>
+              <p class="card-text">O brigadeiro é um doce típico da culinária brasileira, de origem paulista, o qual rapidamente se difundiu pelo resto do país.</p>
               <div>
-                <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                <button type="button" class="btn btn-outline-success">Ver mais</button>
               </div>
+              </p>
+            </a>
             </div>
           </div>
         </div>
@@ -67,11 +74,13 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
+            <a href="../pudim/pudim.php" style="text-decoration: none; color:black">
               <h5 class="card-title">Pudim de leite</h5>
-              <latina class="card-text">Receita de pudim de leite com apenas quatro ingredientes muito fácil de fazer para você que está procurando um pudim diferente.</p>
+              <p class="card-text">Receita de pudim de leite com apenas quatro ingredientes muito fácil de fazer para você que está procurando um pudim diferente.</p>
               <div>
-                <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                <button type="button" class="btn btn-outline-success">Ver mais</button>
               </div>
+            </a>
             </div>
           </div>
         </div>
@@ -84,18 +93,20 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
+            <a href="../sonho/sonho.php" style="text-decoration: none; color:black">
               <h5 class="card-title">Sonho</h5>
-              <latina class="card-text">A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.</p>
+              <p class="card-text">A bola de Berlim (português europeu) ou sonho (português brasileiro) é um bolo tradicional da culinária alemã.</p>
               <div>
-                <button type="button" class="btn btn-outline-secondary">Ver mais</button>
+                <button type="button" class="btn btn-outline-success">Ver mais</button>
               </div>
+            </a>
             </div>
           </div>
         </div>
       </div>
 
 
-      <button type="button" class="col-lg-2 mx-auto btn btn-outline-secondary" style="display: none;">Ver mais</button>
+      <button type="button" class="col-lg-2 mx-auto btn btn-outline-success" style="display: none;">Ver mais</button>
     </div>
     
 
