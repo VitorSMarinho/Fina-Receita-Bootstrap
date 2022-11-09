@@ -1,7 +1,15 @@
 <?php
-include('../header/cabecalho.php');
+session_start();
+
 include "../conexao/conexao.php";
 
+if (empty($_SESSION)) {
+    unset($_SESSION['email']);
+    unset($_SESSION['senha']);
+    include('../header/cabecalho.php');
+} else {
+    include('../header/cabecalhoLogado.php');
+}
 
 ?>
 

@@ -8,7 +8,7 @@ if (isset($_POST) && !empty($_POST)) {
     $endereco = $_POST["Endereco"];
     $cidade = $_POST["Cidade"];
     $estado = $_POST["Estado"];
-    $sexo = $_POST["Sexo"];
+    $sexo = $_POST["exo"];
     include "../conexao/conexao.php";
     $query = "update usuarios set nome = '$nome', email = '$email', nascimento = '$nascimento', endereco = '$endereco', cidade = '$cidade', estado = '$estado', sexo = '$sexo' where id = " . $id;
     $resultado = mysqli_query($conexao, $query);
@@ -33,7 +33,17 @@ if (isset($_POST) && !empty($_POST)) {
     header("Location: usuarios.php?erro=Selecione um registro para editar");
     exit();
 }
-include('../header/cabecalho.php');
+session_start();
+
+include "../conexao/conexao.php";
+
+if (empty($_SESSION)) {
+    unset($_SESSION['email']);
+    unset($_SESSION['senha']);
+    include('../header/cabecalho.php');
+} else {
+    include('../header/cabecalhoLogado.php');
+}
 ?>
 
 <div class="card p-3 m-4 mx-auto" style="width: 75%;">

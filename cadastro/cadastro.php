@@ -1,5 +1,17 @@
 <?php
-include('../header/cabecalho.php');
+session_start();
+
+include "../conexao/conexao.php";
+
+if (empty($_SESSION)) {
+  unset($_SESSION['email']);
+  unset($_SESSION['senha']);
+  include('../header/cabecalho.php');
+} else {
+  unset($_SESSION['email']);
+  unset($_SESSION['senha']);
+  include('../header/cabecalho.php');
+}
 
 if (isset($_POST) && !empty($_POST)) {
   if (empty($_POST["Nome"])) {
