@@ -17,7 +17,7 @@ if (empty($_SESSION)) {
 <!--Imgbox and information chart-->
 
 <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-  Beringela recheada com Frango Fit.
+  Beringela recheada com Frango Fit
 </h1>
 <div class="d-flex mx-auto flex-wrap justify-content-center" style="width: 75%">
   <img class="mb-1 rounded-3 img-fluid me-3 shadow-sm" src="./img/beringela.jpg" alt="beringela foto" style="width: 400px" />

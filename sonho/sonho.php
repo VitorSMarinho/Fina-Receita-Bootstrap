@@ -18,7 +18,7 @@ if (empty($_SESSION)) {
 <!--Imgbox and information chart-->
 
 <h1 class="fs-3 p-3 mx-auto text-center" style="color: #236828; width: 75%">
-  Sonho.
+  Sonho
 </h1>
 <div class="d-flex mx-auto flex-wrap justify-content-center" style="width: 75%">
   <img class="mb-1 rounded-3 img-fluid me-3 shadow-sm" src="./img/sonho.jpg" alt="sonho foto" style="width: 400px" />
