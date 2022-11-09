@@ -45,7 +45,7 @@ $logado = $_SESSION['email'];
           </li>
           <?php
 
-          if ($logado != "teste@teste.com") {
+          if ($logado != "administrador@finareceita.com") {
           ?>
             <li class="nav-item ms-5 mt-3">
               <div class="log">
@@ -63,7 +63,7 @@ $logado = $_SESSION['email'];
           ?>
           <?php
 
-          if ($logado == "teste@teste.com") {
+          if ($logado == "administrador@finareceita.com") {
           ?> <li class="nav-item ms-5 mt-3">
               <div class="log">
                 <a href="../painel_adm/painelAdm.php" style="text-decoration: none; color:white">

@@ -5,7 +5,7 @@ include "../conexao/conexao.php";
 
 $logado = $_SESSION['email'];
 
-if (empty($_SESSION) || $logado != "teste@teste.com") {
+if (empty($_SESSION) || $logado != "administrador@finareceita.com") {
     unset($_SESSION['email']);
     unset($_SESSION['senha']);
     header("Location: ../home_page/home.php");

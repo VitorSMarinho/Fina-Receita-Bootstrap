@@ -8,7 +8,7 @@ if (isset($_POST) && !empty($_POST)) {
     $endereco = $_POST["Endereco"];
     $cidade = $_POST["Cidade"];
     $estado = $_POST["Estado"];
-    $sexo = $_POST["exo"];
+    $sexo = $_POST["sexo"];
     include "../conexao/conexao.php";
     $query = "update usuarios set nome = '$nome', email = '$email', nascimento = '$nascimento', endereco = '$endereco', cidade = '$cidade', estado = '$estado', sexo = '$sexo' where id = " . $id;
     $resultado = mysqli_query($conexao, $query);
