@@ -56,7 +56,7 @@ if (isset($_POST) && !empty($_POST)) {
     <div class="alert alert-danger">
       Por favor preencha o campo de modo de preparo
     </div>
-  <?php
+<?php
   } else {
     include "../conexao/conexao.php";
     $imagem = "./img/" . $_FILES["imagem"]["name"];
@@ -72,14 +72,6 @@ if (isset($_POST) && !empty($_POST)) {
     $query = "insert into receitas (nome, receita, imagem, tempo, rendimento, ingredientes, preparo) values('$nome', '$receita', '$imagem', '$tempo', '$rendimento', '$ingredientes', '$preparo')";
     //echo $query;
     $resultado = mysqli_query($conexao, $query);
-
-  ?>
-
-    <div class="alert alert-success">
-      Receita enviada com sucesso
-    </div>
-
-<?php
   }
 }
 ?>
