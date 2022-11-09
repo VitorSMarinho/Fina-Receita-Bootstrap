@@ -14,7 +14,7 @@ if (empty($_SESSION)) {
 
 <!--Conteúdo-->
 
-<div class="card p-3 m-4 mx-auto" style="width: 75%">
+<div class="card p-3 m-4 mx-auto" style="width: 35%">
   <div class="text-center d-flex justify-content-center">
     <img src="img/chef.png" style="height: 2rem" />
     <p style="color: #236828">Contato</p>
