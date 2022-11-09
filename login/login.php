@@ -13,8 +13,8 @@ include "../conexao/conexao.php";
 ?>
 
 <!--Conteúdo-->
-<div class="card p-3 m-4 mx-auto" style="width: 65%;">
-    <div class="text-center d-flex justify-content-center">
+<div class="card p-3 m-4 mx-auto" style="width: 65%; height:400px">
+    <div class="text-center d-flex justify-content-center mt-5">
         <p style="color: #236828; font-size: 20px;">Bem Vindo(a) de volta!</p>
     </div>
     <div class="d-flex justify-content-center">
