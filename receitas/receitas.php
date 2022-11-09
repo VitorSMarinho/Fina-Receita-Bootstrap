@@ -3,10 +3,12 @@ session_start();
 
 include "../conexao/conexao.php";
 
-if (empty($_SESSION)) {
+$logado = $_SESSION['email'];
+
+if (empty($_SESSION) || $logado != "teste@teste.com") {
     unset($_SESSION['email']);
     unset($_SESSION['senha']);
-    include('../header/cabecalho.php');
+    header("Location: ../home_page/home.php");
 } else {
     include('../header/cabecalhoLogado.php');
 }

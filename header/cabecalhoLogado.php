@@ -43,23 +43,31 @@ $logado = $_SESSION['email'];
               </a>
             </div>
           </li>
+          <?php
 
-          <li class="nav-item ms-5 mt-3">
-            <div class="log">
-              <a href="../enviar_receita/envieReceita.php" style="text-decoration: none; color:white">
-                <p class="d-flex align-items-center"><img src="./img/notes.png" alt="sair" style="height: 2em;" />
-                  Enviar Receita
-                </p>
-              </a>
-            </div>
-          </li>
+          if ($logado != "teste@teste.com") {
+          ?>
+            <li class="nav-item ms-5 mt-3">
+              <div class="log">
+                <a href="../enviar_receita/envieReceita.php" style="text-decoration: none; color:white">
+                  <p class="d-flex align-items-center"><img src="./img/notes.png" alt="sair" style="height: 2em;" />
+                    Enviar Receita
+                  </p>
+                </a>
+              </div>
+            </li>
+
+          <?php
+          }
+
+          ?>
           <?php
 
           if ($logado == "teste@teste.com") {
           ?> <li class="nav-item ms-5 mt-3">
               <div class="log">
-                <a href="../usuarios/usuarios.php" style="text-decoration: none; color:white">
-                  <p class="d-flex align-items-center"><img src="./img/edit.png" alt="cadastrar-se" style="height: 2em;" />Editar Usuários
+                <a href="../painel_adm/painelAdm.php" style="text-decoration: none; color:white">
+                  <p class="d-flex align-items-center"><img src="./img/edit.png" alt="cadastrar-se" style="height: 2em;" />Painel do Administrador
                   </p>
                 </a>
               </div>
